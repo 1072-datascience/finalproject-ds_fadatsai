@@ -1,13 +1,14 @@
 # < Title of your final project >
 
 ### Groups
-* < name, student ID1 >
-* < name, student ID2 >
-* < name, student ID3 >
-* ...
+* < 張璟榮, 104302033 >
+* < 莊凱鈞, 104703027 >
+* < 郭芷瑄, 104703040 >
+* < 陳海坤, 107753024 >
+* < 黃清昱, 104753032 >
 
 ### Goal
-A breif introduction about your project, i.e., what is your goal?
+Our goal is to estimate the HDI Human Development of the cities in Brazil.
 
 ### Demo 
 You should provide an example commend to reproduce your result
@@ -26,7 +27,7 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 ### data
 
-* Source
+* Source: (https://www.kaggle.com/crisparada/brazilian-cities?fbclid=IwAR2aoN1eihNzzmywq9z_NQpBHbC6Igy5nmQNgmFNp-wEAlG3odMfpqmB0Tk "A collection of 79 attributes from Brazilian Cities")
 * Input format
 * Any preprocessing?
   * Handle missing data
