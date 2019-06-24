@@ -47,13 +47,13 @@ train_test_split
 ### results
 
 * Which metric do you use
-** accuracy
+	* accuracy
 * precision, recall, R-square
-** R-square
+	* R-square
 * Is your improvement significant?
-** Yes
+	* Yes
 * What is the challenge part of your project?
-** preprocessing、domain knowledge insufficient
+	* preprocessing、domain knowledge insufficient
 
 ## Reference
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
