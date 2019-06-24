@@ -1,4 +1,4 @@
-# < Title of your final project >
+# < IDHM of Brazilian Cities >
 
 ### Groups
 * < 張璟榮, 104302033 >
@@ -13,18 +13,20 @@ Our goal is to estimate the HDI Human Development of the cities in Brazil.
 ### Demo 
 You should provide an example commend to reproduce your result
 ```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
+jupyter notebook code/DF_final_showcode.ipynb
+jupyter notebook code/final.ipynb
+jupyter notebook code/final_bagging&kNN.ipynb
 ```
 * any on-line visualization
 
 ## Folder organization and its related information
 
 ### docs
-* Your presentation, 1072_datascience_FP_<yourID|groupName>.ppt/pptx/pdf, by **Jun. 25**
+* Your presentation, 1072_datascience_FP_finalproject-ds_fadatsai.ppt/pptx/pdf, by **Jun. 25**
 
 ### data
 
-* Source: (https://www.kaggle.com/crisparada/brazilian-cities?fbclid=IwAR2aoN1eihNzzmywq9z_NQpBHbC6Igy5nmQNgmFNp-wEAlG3odMfpqmB0Tk "A collection of 79 attributes from Brazilian Cities")
+* Source: [A collection of 79 attributes from Brazilian Cities](https://www.kaggle.com/crisparada/brazilian-cities?fbclid=IwAR2aoN1eihNzzmywq9z_NQpBHbC6Igy5nmQNgmFNp-wEAlG3odMfpqmB0Tk)
 * Input format
   * .csv
 * Any preprocessing?
@@ -57,7 +59,7 @@ train_test_split
 
 ## Reference
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
-*(https://www.kaggle.com/crisparada/brazilian-cities-a-simple-exploration)
+* (https://www.kaggle.com/crisparada/brazilian-cities-a-simple-exploration)
 * Packages you use: pandas, matplotlib, numpy, seaborn, scipy, math, os, sklearn
 
 
